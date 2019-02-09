@@ -1,0 +1,14 @@
+{
+    "project": "top",
+    "board": "icestick",
+    "ext": ["uart", "__hwbob_m5icestick-a"],
+    "ext-settings": {
+      "uart": {
+        "eol": "\r"
+      }
+    },
+    "__internal": {
+	"honorPCF": true,
+	"X_ignorePCF": true
+    }
+}
