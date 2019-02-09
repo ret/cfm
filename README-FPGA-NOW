@@ -1,0 +1,6 @@
+Build with:
+  make icestick-all
+Deploy with:
+  fpga-create --bin
+Access via
+  fpga-uart <url>
